@@ -9,5 +9,3 @@
 > A curated list of awesome resources on Apache Airflow
 
 **Please contribute to make this guide better!** Please follow the [Contributing Guidelines](https://github.com/elasticlabs/awesome-apache-airflow/blob/master/ContributingGuidelines.md). 
-
-
